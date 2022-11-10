@@ -1,5 +1,4 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+java: Java merupakan bahasa pemrograman yang bertujuan untuk mengembangkan program secara bersama, general purpose, concurrent, class-based, object-oriented dan khusus dirancang untuk bisa dijalankan pada semua platform selama pada lingkungan tersebut terdapat JVM (Java Virtual Machine). seperti membuat program yang berjudul helloworld,the tree, dan kesan pembelajaran
+Java Development Kit, Java Runtime Environment, JVM – Java Virtual Machine: yang memiliki fungsi yanng berbeda-beda. Program Java inin ditulis sebagai file berekstensi .java yang bisa dijalankan di semua Java Virtual Machine atau JVM, tidak peduli apapun sistem operasi ataupun arsitektur processornya.
+Ide: Untuk pemrograman Java menggunakan IDE dapat menggunakan NetBeans IDE. NetBeans IDE merupakan salah satu IDE atau Integrated Development Environmen
+instalasi: ini ialah perintah terakhir sebelum kita bisa mulai menjalankan suatu program
